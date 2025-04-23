@@ -10,4 +10,9 @@ class TestCases {
   public void testMethod2 () {
 	
   }
+
+@Test
+	public void testMethod4 () {
+
+	}
 }
