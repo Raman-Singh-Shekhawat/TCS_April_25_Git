@@ -5,4 +5,9 @@ class TestCases {
 
     assert (false);
   }
+
+  @Test
+  public void testMethod2 () {
+	
+  }
 }
